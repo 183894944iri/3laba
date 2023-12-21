@@ -1,0 +1,15 @@
+/Users/mac/RiderProjects/ConsoleApp3/ConsoleApp3/bin/Debug/net7.0/ConsoleApp3
+/Users/mac/RiderProjects/ConsoleApp3/ConsoleApp3/bin/Debug/net7.0/ConsoleApp3.deps.json
+/Users/mac/RiderProjects/ConsoleApp3/ConsoleApp3/bin/Debug/net7.0/ConsoleApp3.runtimeconfig.json
+/Users/mac/RiderProjects/ConsoleApp3/ConsoleApp3/bin/Debug/net7.0/ConsoleApp3.dll
+/Users/mac/RiderProjects/ConsoleApp3/ConsoleApp3/bin/Debug/net7.0/ConsoleApp3.pdb
+/Users/mac/RiderProjects/ConsoleApp3/ConsoleApp3/obj/Debug/net7.0/ConsoleApp3.csproj.AssemblyReference.cache
+/Users/mac/RiderProjects/ConsoleApp3/ConsoleApp3/obj/Debug/net7.0/ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/RiderProjects/ConsoleApp3/ConsoleApp3/obj/Debug/net7.0/ConsoleApp3.AssemblyInfoInputs.cache
+/Users/mac/RiderProjects/ConsoleApp3/ConsoleApp3/obj/Debug/net7.0/ConsoleApp3.AssemblyInfo.cs
+/Users/mac/RiderProjects/ConsoleApp3/ConsoleApp3/obj/Debug/net7.0/ConsoleApp3.csproj.CoreCompileInputs.cache
+/Users/mac/RiderProjects/ConsoleApp3/ConsoleApp3/obj/Debug/net7.0/ConsoleApp3.dll
+/Users/mac/RiderProjects/ConsoleApp3/ConsoleApp3/obj/Debug/net7.0/refint/ConsoleApp3.dll
+/Users/mac/RiderProjects/ConsoleApp3/ConsoleApp3/obj/Debug/net7.0/ConsoleApp3.pdb
+/Users/mac/RiderProjects/ConsoleApp3/ConsoleApp3/obj/Debug/net7.0/ConsoleApp3.genruntimeconfig.cache
+/Users/mac/RiderProjects/ConsoleApp3/ConsoleApp3/obj/Debug/net7.0/ref/ConsoleApp3.dll
